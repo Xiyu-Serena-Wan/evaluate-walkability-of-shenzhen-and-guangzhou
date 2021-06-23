@@ -1,0 +1,23 @@
+\contentsline {section}{\numberline {1}研究方案}{1}{section.1}%
+\contentsline {subsection}{\numberline {1.1}获取社区信息}{2}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}设施分类表}{2}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}计算步行指数}{3}{subsection.1.3}%
+\contentsline {subsubsection}{\numberline {1.3.1}基于距离的衰减函数}{3}{subsubsection.1.3.1}%
+\contentsline {subsubsection}{\numberline {1.3.2}根据路网计算路径距离}{4}{subsubsection.1.3.2}%
+\contentsline {subsubsection}{\numberline {1.3.3}查找每个社区周围的POI}{4}{subsubsection.1.3.3}%
+\contentsline {subsection}{\numberline {1.4}得分纠错}{5}{subsection.1.4}%
+\contentsline {subsubsection}{\numberline {1.4.1}考虑路口密度和街道长度}{5}{subsubsection.1.4.1}%
+\contentsline {subsubsection}{\numberline {1.4.2}基于社区特征的衰减函数}{5}{subsubsection.1.4.2}%
+\contentsline {subsubsection}{\numberline {1.4.3}获取社区所属的街道名称}{6}{subsubsection.1.4.3}%
+\contentsline {subsection}{\numberline {1.5}步行性评估}{6}{subsection.1.5}%
+\contentsline {section}{\numberline {2}广州的研究结果}{7}{section.2}%
+\contentsline {subsection}{\numberline {2.1}POI数据的基本统计特征}{7}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}所有社区/街区的步行性评级结果统计*}{7}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}标准化打分*}{8}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}步行性评估}{8}{subsection.2.4}%
+\contentsline {section}{\numberline {3}深圳的研究结果}{10}{section.3}%
+\contentsline {subsection}{\numberline {3.1}POI数据的基本统计特征}{10}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}所有社区/街区的步行性评级结果统计*}{10}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}标准化打分*}{11}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}步行性评估}{11}{subsection.3.4}%
+\contentsline {section}{参考文献}{13}{table.caption.14}%
